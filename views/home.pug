@@ -1,0 +1,10 @@
+extends layout
+
+block content
+	h1.text-center Tweets Containing #CSC365
+	button.btn.btn-defaultk.btn-block#switchPlayback 
+		h3#switchText Play Tweets at the Same Time
+	div
+		ul.list-group#tweetList
+	#audioHolder
+	script(src='./js/client.js')

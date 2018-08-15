@@ -1,0 +1,56 @@
+
+.img-size {
+     max-width: 1000px;
+     min-width: 500px;
+     display:block;
+     margin: auto;
+}
+
+.profile_img {
+     width: 50px;
+     border-radius: 15%;
+}
+
+#audioHoler {
+     display: hidden;
+}
+
+#logout {
+     color: #FF0000;
+     font-weight: bold;
+}
+
+#userName {
+     color: rgb(0, 0, 0);
+}
+
+.playing {
+     background-color: #1f1f1f;
+     color: #FFFFFF
+}
+
+.notPlaying {
+     color: #157DEC;
+}
+
+li h2 {
+     font-weight: bold;
+     display: inline-block;
+     margin-left: 20px;
+     margin-bottom: 0px;
+}
+
+li p {
+     margin-top: 15px;
+     margin-left: 15px;
+}
+
+.center-text {
+     text-align: center;
+}
+
+#bird {
+     max-width: 400px;
+     display:block;
+     margin: auto;
+}

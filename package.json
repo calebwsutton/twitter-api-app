@@ -1,0 +1,24 @@
+{
+  "name": "csc_365_final_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "aws-sdk": "^2.153.0",
+    "cookie-parser": "^1.4.3",
+    "events": "^1.1.1",
+    "express": "^4.16.2",
+    "express-session": "^1.15.6",
+    "fs": "^0.0.1-security",
+    "passport": "^0.4.0",
+    "passport-facebook": "^2.1.1",
+    "pug": "^2.0.0-rc.4",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Caleb Sutton",
+  "license": "ISC"
+}
